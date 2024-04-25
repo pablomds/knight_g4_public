@@ -13,6 +13,6 @@ www.knights.ovh
 * [Antonin P.](https://github.com/AntoninPerrot)
 * [Pape K.](https://github.com/Tupacman)
 * [Pablo M.](https://github.com/pablomds)
-* [Nathan P.](https://github.com/aikozz)
+* [Justin M.](https://github.com/JustoneMlts)
 
     **Un grand merci à l'équipe Knights.**
